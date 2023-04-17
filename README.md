@@ -1,4 +1,4 @@
-Since my country, Italy, has suddenly decided to stop chatGPT, I decided to implement a chat bot, following the tutorial from this video:
+Since the country I am currently living in, Italy, has suddenly decided to prevent free access to chatGPT, I decided to implement my own chat bot based on the OpenAI services, following the tutorial from this video:
 
 https://www.youtube.com/watch?v=qkzhSZAwD6A
 
